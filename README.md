@@ -1,5 +1,4 @@
-# Barcode_decode-decodability</br>
-## 条码译码及可译码度计算</br>
+# Barcode_decode-decodability 条码译码及可译码度计算</br>
 对图像中的EAN-13商品条码进行译码，检验可译码度。
 ### 1.通过PIL库将视觉信息转化为数据
 模式“1”
