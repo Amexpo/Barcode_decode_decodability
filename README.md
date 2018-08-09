@@ -14,7 +14,7 @@
 前置码</br>
 字符相似边缘尺寸所包含的模块宽度字典--->数字字符+ABC子集
 ### 5.条码译码
-
+![译码过程](https://github.com/Amexpo/Barcode_decode-decodability/条码译码过程.png)
 ### 6.计算可译码度
 可译码度Vc
 ### 7.参考标准：
